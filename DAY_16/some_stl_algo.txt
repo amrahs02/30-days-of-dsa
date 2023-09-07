@@ -1,0 +1,19 @@
+... means three parameter is required
+.. means two
+
+
+1. *max_element(v.begin(), v.end());
+1. *min_element(v.begin(), v.end());
+3. accumulate(v.begin(), v.end(), 0 ) 0 is the initial sum (sum = 0) add all the lement of vector or array
+4. count(...) count the desired element in array ( how many times a element present)
+5. find(...)
+6. reverse(..)
+
+
+all operations are O(1)
+these functions return true or false 
+
+more functions are 
+1. all_of(v.begin(), v.end(), [](int x)(return x>0;)); 
+1. any_of(v.begin(), v.end(), [](int x)(return x>0;)); 
+1. none_of(v.begin(), v.end(), [](int x)(return x>0;)); 
