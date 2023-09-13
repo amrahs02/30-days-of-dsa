@@ -26,3 +26,6 @@ struct Node *makeUnion(struct Node *head1, struct Node *head2)
     }
     return head->next;
 }
+
+// NOT ABLE TO DO WITHOUT SET AND MAP
+// STILL TRYING

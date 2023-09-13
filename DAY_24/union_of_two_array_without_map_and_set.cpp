@@ -44,6 +44,3 @@ while (j < m)
 }
 
 return (uni);
-
-// NOT ABLE TO DO WITHOUT SET AND MAP
-// STILL TRYING
