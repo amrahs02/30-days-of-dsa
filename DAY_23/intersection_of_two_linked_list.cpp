@@ -22,7 +22,6 @@ while (temp1 != NULL)
 }
 
 return result->next; // Skip the dummy node in the result
-}
 
 // some imp points here we have to put linked list 1 in set  ( because the ouput order should be according to first linked list , if we put first linked list in set then the output print as order of second linked list)
 //
