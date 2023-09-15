@@ -23,7 +23,7 @@ bool detectLoop(Node *head)
 }
 
 #approach 2
-//  floyd's cycle detction algo
+//  floyd's cycle detction algo (slow and fast) 
 bool detectLoop(Node *head)
 {
 
